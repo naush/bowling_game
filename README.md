@@ -2,6 +2,8 @@
 
 ### Problem
 
+![white-and-red-bowling-set](https://user-images.githubusercontent.com/232740/75391907-a82c6380-58f3-11ea-9479-8f44d3601761.jpg)
+
 The game consists of 10 frames. In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
 
 A spare is when the player knocks down all 10 pins in two tries. The bonus for that frame is the number of pins knocked down by the next roll.
